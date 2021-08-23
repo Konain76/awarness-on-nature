@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+}
+h1{
+  font-size: 3rem;
+  color:#F4F4F4;
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-size: 2rem;
+  color: #206A5D;
+  font-family: 'Oswald', sans-serif;
+}
+p{
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: 'Mukta', sans-serif;
+}
+.img-1{
+  background-image: url('forest.jpg');
+  height: 2000px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.message{
+  width: 40%;
+  margin: 0 auto;
+  padding-top: 30%;
+}
+.report-on-forest{
+  width: 80%;
+  color: black;
+  line-height: 2;
+  margin: 0 auto;
+  padding-top: 50%;
+
+}
+.trees{
+  background-color: #5F7A61;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.bio-report{
+  margin-top: 0;
+}
+.b-report{
+  width: 95%;
+  margin: 0 auto;
+}
+.img-2{
+  background-image: url('wildlife.jpg');
+  height: 1300px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.message-2{
+  width: 13%;
+  padding-top: 15%;
+  margin:0 auto;
+}
+.report-on-wildlife{
+  width: 90%;
+  padding-top: 15%;
+  line-height: 2;
+  margin: 0 auto;
+}
+.wildlife-extinction{
+  background-color: #ACFFAD;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 2%;
+  padding-left: 2%
+
+}
+.extinct-report{
+  margin-top: 0;
+}
+.img-3{
+  background-image: url('deforestation.jpg');
+  height: 650px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.report-on-deforestation{
+  margin: 0 auto;
+  color:#F4F4F4 ;
+  line-height: 2;
+  width: 81%;
+
+  padding-top: 6%;
+  font-family: 'Mukta', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.img-4{
+  background-image: url('forestfire.jpg');
+  height: 650px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.report-on-forestfire{
+  margin: 0 auto;
+  color: black;
+  line-height: 2;
+  width: 90%;
+
+  padding-top: 10%;
+  font-family: 'Mukta', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.img-5{
+  background-image: url('forest.jpg');
+  height: 650px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.message-4{
+ padding-top: 22%;
+ margin: 0 auto;
+ width: 27%;
+
+}
